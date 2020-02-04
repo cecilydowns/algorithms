@@ -9,7 +9,6 @@ function randomize(array) {
       results.push(array[index]);
     }
   }
-
   return results;
 }
 
